@@ -1,6 +1,9 @@
 # Opdrachtbeschrijving
 
 ## Inleiding
+
+https://github.com/hogeschoolnovi/frontend-react-pokemon
+
 Je bent al jaren een ontzettende Pokémon fan en kent alle afleveringen uit je hoofd. Laatst was je rustig aan het browsen en kwam je ineens tot de ontdekking dat er een 
 Poké API bestaat waarmee je Pokémon data mee kunt ophalen! Jottem!
 
